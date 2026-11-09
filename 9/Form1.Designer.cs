@@ -43,27 +43,30 @@
             // x
             // 
             this.x.AutoSize = true;
+            this.x.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.x.Location = new System.Drawing.Point(81, 76);
             this.x.Name = "x";
-            this.x.Size = new System.Drawing.Size(18, 16);
+            this.x.Size = new System.Drawing.Size(27, 23);
             this.x.TabIndex = 0;
             this.x.Text = "a:";
             // 
             // b
             // 
             this.b.AutoSize = true;
+            this.b.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.b.Location = new System.Drawing.Point(81, 114);
             this.b.Name = "b";
-            this.b.Size = new System.Drawing.Size(18, 16);
+            this.b.Size = new System.Drawing.Size(27, 23);
             this.b.TabIndex = 1;
             this.b.Text = "b:";
             // 
             // c
             // 
             this.c.AutoSize = true;
+            this.c.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.c.Location = new System.Drawing.Point(81, 152);
             this.c.Name = "c";
-            this.c.Size = new System.Drawing.Size(17, 16);
+            this.c.Size = new System.Drawing.Size(28, 25);
             this.c.TabIndex = 2;
             this.c.Text = "c:";
             // 
@@ -131,9 +134,10 @@
             // label4
             // 
             this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label4.Location = new System.Drawing.Point(172, 281);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(77, 16);
+            this.label4.Size = new System.Drawing.Size(97, 23);
             this.label4.TabIndex = 9;
             this.label4.Text = "Результат";
             // 
