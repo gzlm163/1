@@ -98,9 +98,9 @@
             // 
             this.btnDiscriminant.BackColor = System.Drawing.Color.Violet;
             this.btnDiscriminant.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDiscriminant.Location = new System.Drawing.Point(84, 212);
+            this.btnDiscriminant.Location = new System.Drawing.Point(84, 197);
             this.btnDiscriminant.Name = "btnDiscriminant";
-            this.btnDiscriminant.Size = new System.Drawing.Size(109, 43);
+            this.btnDiscriminant.Size = new System.Drawing.Size(118, 66);
             this.btnDiscriminant.TabIndex = 6;
             this.btnDiscriminant.Text = "Рассчитать";
             this.btnDiscriminant.UseVisualStyleBackColor = false;
@@ -110,9 +110,9 @@
             // 
             this.btnVieta.BackColor = System.Drawing.Color.Violet;
             this.btnVieta.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnVieta.Location = new System.Drawing.Point(225, 212);
+            this.btnVieta.Location = new System.Drawing.Point(234, 197);
             this.btnVieta.Name = "btnVieta";
-            this.btnVieta.Size = new System.Drawing.Size(116, 43);
+            this.btnVieta.Size = new System.Drawing.Size(116, 66);
             this.btnVieta.TabIndex = 7;
             this.btnVieta.Text = "Проверка Виета";
             this.btnVieta.UseVisualStyleBackColor = false;
